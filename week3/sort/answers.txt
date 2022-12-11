@@ -1,0 +1,14 @@
+sort1 uses: Bubble Sort
+
+How do you know?: First, in the best scenario where the array is sorted, it has the lowerest running time.
+                  Second, its running times in worst case(reversed) and best case(sorted) are very different.
+
+sort2 uses: Merge Sort
+
+How do you know?: First, in the worst scenario where the array is reversed, it has the lowest runnning time.
+                  Second, its running times in worst case(reversed) and best case(sorted) are similar.
+
+sort3 uses: Selection Sort
+
+How do you know?: First, in the worst scenario where the array is reversed, it has the largest runnning time.
+                  Second, its running times in worst case(reversed) and best case(sorted) are similar.
