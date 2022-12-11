@@ -1,11 +1,3 @@
----
-layout: post
-title: HarvardX CS50x Lecture3 Algorithms Notes
-date: 2022-12-09
-categories: [computer science]
-tags: [course, introduction to Computer Science]
-excerpt: In this lecture, we’ll focus on algorithms that solve problems with arrays.
----
 
 ## Big O
 In order to evaluate algorithm, the running time of the computation definitely is an important factor. `Big O`, which we can think of as “on the order of” something instead of an exact number of milliseconds or steps, is notation introduced to describe it.
